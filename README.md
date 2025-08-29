@@ -275,11 +275,11 @@ Azure Files delivers fully managed, cloud-based file shares accessible via SMB a
 
 <img width="979" height="467" alt="image" src="https://github.com/user-attachments/assets/b3c0c32a-a908-4e4b-a158-9c31f16e5f3c" />
 
-Snapshot 1: Azure portal login page.
+            Snapshot 1: Azure portal login page.
 
  <img width="979" height="467" alt="image" src="https://github.com/user-attachments/assets/30b87b12-10ea-483e-8d63-7659c863062f" />
 
-Snapshot 2: Services in Azure
+             Snapshot 2: Services in Azure
 
 
 **Result:**
